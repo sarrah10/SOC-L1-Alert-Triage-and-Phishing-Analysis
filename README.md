@@ -16,19 +16,14 @@ The objective of this repository is to demonstrate entry-level SOC analyst skill
 
 ## Module Completed – SOC Team Internals
 
-SOC L1 Alert Triage
-Learned the lifecycle of SOC alerts and how L1 analysts triage alerts from event generation to resolution.
+- SOC L1 Alert Triage: Learned the lifecycle of SOC alerts and how L1 analysts triage alerts from event generation to resolution.
 
-SOC L1 Alert Reporting
-Practiced documenting alerts, escalating incidents, and communicating findings clearly in a SOC environment.
+- SOC L1 Alert Reporting: Practiced documenting alerts, escalating incidents, and communicating findings clearly in a SOC environment.
 
-SOC Workbooks and Lookups
-Used SOC workbooks, asset inventories, and lookup techniques to enrich alert investigations.
+- SOC Workbooks and Lookups: Used SOC workbooks, asset inventories, and lookup techniques to enrich alert investigations.
 
-SOC Metrics and Objectives
-Learned key SOC performance metrics such as SLA, MTTD, MTTA, MTTR, and the importance of reducing false positives.
+- SOC Metrics and Objectives: Learned key SOC performance metrics such as SLA, MTTD, MTTA, MTTR, and the importance of reducing false positives.
 
-Lab – Introduction to Phishing (SOC Simulator)
-Completed the SOC Simulator scenario by identifying and closing all True Positive alerts.
+- Lab: Introduction to Phishing (SOC Simulator): Completed the SOC Simulator scenario by identifying and closing all True Positive alerts.
 
 ![Alerts Overview](images/All-Alerts.jpeg)
