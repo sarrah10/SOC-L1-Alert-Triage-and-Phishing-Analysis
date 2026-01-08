@@ -4,17 +4,17 @@ This repository documents my hands-on learning and investigations completed as p
 
 The objective of this repository is to demonstrate entry-level SOC analyst skills including alert triage, phishing analysis, log investigation, incident reporting, and escalation decision-making in simulated real-world SOC environments.
 
-# Skills Demonstrated
+## Skills Demonstrated
 
-SOC L1 Alert Triage
-True Positive / False Positive Classification
-Phishing Email Analysis
-Firewall & Network Log Analysis
-Incident Documentation using 5Ws
-Escalation & Remediation Planning
-SOC Metrics Awareness (MTTD, MTTR, False Positives)
+- SOC L1 Alert Triage
+- True Positive / False Positive Classification
+- Phishing Email Analysis
+- Firewall & Network Log Analysis
+- Incident Documentation using 5Ws
+- Escalation & Remediation Planning
+- SOC Metrics Awareness (MTTD, MTTR, False Positives)
 
-# Module Completed – SOC Team Internals
+## Module Completed – SOC Team Internals
 
 SOC L1 Alert Triage
 Learned the lifecycle of SOC alerts and how L1 analysts triage alerts from event generation to resolution.
