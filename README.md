@@ -30,4 +30,5 @@ Learned key SOC performance metrics such as SLA, MTTD, MTTA, MTTR, and the impor
 
 Lab – Introduction to Phishing (SOC Simulator)
 Completed the SOC Simulator scenario by identifying and closing all True Positive alerts.
-![Alerts Overview](images/All-ALerts.jpeg)
+
+![Alerts Overview](images/All-Alerts.jpeg)
