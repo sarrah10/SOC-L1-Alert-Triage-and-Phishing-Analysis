@@ -3,6 +3,9 @@ Scenario:
 Triaged alerts in a simulated SOC environment and closed all **True Positive alerts** to successfully complete the scenario.
 
 ## Alert Analysis & Investigation
+![All Alerts Overview](images/All-Alerts.jpeg)
+
+<img src="images/All-Alerts.jpeg" alt="All Alerts Overview" width="600">
 
 ---
 
