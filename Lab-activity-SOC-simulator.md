@@ -5,11 +5,10 @@ Triaged alerts in a simulated SOC environment and closed all **True Positive ale
 ## Alert Analysis & Investigation
 ![All Alerts Overview](images/All-Alerts.jpeg)
 
-<img src="images/All-Alerts.jpeg" alt="All Alerts Overview" width="600">
-
 ---
-
-### 1. False positive
+# ALert 1
+![Alert 1](images/Alert1.jpeg)
+### False positive
 
 Time of Activity: Jan 8th 2026 at 15:59
 
@@ -22,8 +21,9 @@ List of Related Entities:
 Reason for Classifying as False Positive: The email originates from a legitimate internal HR domain and contains a trusted URL. No indicators of phishing such as domain spoofing, malicious attachments, obfuscated links, or social engineering tactics were identified.
 
 ---
-
-### 2. True positive
+# ALert 2
+![Alert 2](images/Alert2.jpeg)
+### True positive
 
 Time of activity: Jan 8th 2026 at 15:58
 
@@ -53,8 +53,9 @@ List of Attack Indicators:
 - Impersonation of Microsoft security notifications
 
 --- 
-
-### 3. True positive
+# ALert 3
+![Alert 3](images/Alert3.jpeg)
+### True positive
 
 Time of activity: Jan 8th 2026 at 15:57
 
@@ -81,8 +82,9 @@ List of Attack Indicators:
 - Outbound connection attempt blocked by firewall
 
 --- 
-
-### 4. True positive
+# ALert 4
+![Alert 4](images/Alert4.jpeg)
+### True positive
 
 Time of activity: Jan 8th 2026 at 15:56
 
@@ -109,8 +111,9 @@ List of Attack Indicators:
 - Request to verify information via external link
 
 ---
-
-### 5. False positive
+# ALert 5
+![Alert 5](images/Alert5.jpeg)
+### False positive
 
 Time of Activity: Jan 8th 2026 at 15:55
 
